@@ -1,6 +1,8 @@
-# Сообщество Roland SP-404
+[![web](https://img.shields.io/badge/web-sp404.ru-blue?style=flat&logo=web)](https://sp404.ru/)
+[![telegram](https://img.shields.io/badge/telegram-sp404community-blue?style=flat&logo=telegram)](https://t.me/sp404community)
+[![github](https://img.shields.io/badge/github-sp404community.github.io-blue?style=flat&logo=github)](https://github.com/sp404community/sp404community.github.io)
 
-Telegram [@sp404community](https://t.me/sp404community), гайд [sp404.ru](https://sp404.ru/)
+# Сообщество Roland SP-404 (RU)
 
 ### Хронология SP-404 дивайсов
 

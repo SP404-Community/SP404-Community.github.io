@@ -1,3 +1,7 @@
+[![web](https://img.shields.io/badge/web-sp404.ru-blue?style=flat&logo=web)](https://sp404.ru/)
+[![telegram](https://img.shields.io/badge/telegram-sp404community-blue?style=flat&logo=telegram)](https://t.me/sp404community)
+[![github](https://img.shields.io/badge/github-sp404community.github.io-blue?style=flat&logo=github)](https://github.com/sp404community/sp404community.github.io)
+
 # Roland SP-404MKII
 
 ![SP-404MKII](https://static.roland.com/assets/images/products/main/sp-404mkii_top_waveform_main.jpg)
