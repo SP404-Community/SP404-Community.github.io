@@ -1,5 +1,7 @@
 # Roland SP-404SX
 
+![SP-404SX](https://static.roland.com/assets/images/products/main/sp-404sx_top_main.jpg)
+
 ## Мануалы
 
 - [Инструкция для SP-404SX](https://drive.google.com/file/d/1CJqo5LH0GRB7sdrO4Kuw1K5KOwbOjxzU/view?usp=drive_link) (RU)

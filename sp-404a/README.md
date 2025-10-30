@@ -1,5 +1,7 @@
 # Roland SP-404A
 
+![SP-404A](https://static.roland.com/assets/images/products/main/sp-404a_main.jpg)
+
 ## Мануалы
 
 - [Инструкция для SP-404A](https://drive.google.com/file/d/1CJqo5LH0GRB7sdrO4Kuw1K5KOwbOjxzU/view?usp=drive_link) (RU)
