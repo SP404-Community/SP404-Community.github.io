@@ -6,11 +6,11 @@
 
 - [Инструкция для SP-404SX](https://drive.google.com/file/d/1CJqo5LH0GRB7sdrO4Kuw1K5KOwbOjxzU/view?usp=drive_link) (RU)
 
-### Кнобы / поты / рукоятки крутилок
+## Кнобы / поты / рукоятки крутилок
 
 - [Видео-инструкция](https://youtu.be/Q6Aoy7XFMPM?si=-2ls5kDz8p-K8FQ1)  по замене пэдов для SP-404SX (RU)
 
-#### Купить кнобы / поты / рукоятки крутилок
+### Купить кнобы / поты / рукоятки крутилок
 
 - [Пэды и потенциоменты для SP-404SX](https://vk.com/akai_mpc_workshop) – в Akai MPC Workshop в ВК (RU)
 
