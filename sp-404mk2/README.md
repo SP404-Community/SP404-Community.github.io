@@ -1,5 +1,7 @@
 # Roland SP-404MKII
 
+![SP-404MKII](https://static.roland.com/assets/images/products/main/sp-404mkii_top_waveform_main.jpg)
+
 ## Мануалы
 
 - [Официальные мануалы](https://www.roland.com/global/support/by_product/sp-404mk2/owners_manuals/) на сайте Roland (EN)
