@@ -51,7 +51,7 @@
 > [!WARNING]
 > Альтернативные источники питания использовать только на свой страх и риск.
 
-#### Купить источники питания на маркетплейсах
+### Купить источники питания на маркетплейсах
 
 - [Аккумуляторы GP](https://ozon.ru/t/2HMWLEd)
 - [Аккумуляторы IMUTO](https://ozon.ru/t/7icbEFk)
@@ -148,7 +148,7 @@
 
 Необходимо переконвертировать сэмплы в `WAV 16bit, 48kHz`.
 
-#### Аудио Конвертеры
+### Аудио Конвертеры
 
 - [audio-converter](https://www.mediahuman.com/audio-converter/) от [mediahuman](https://www.mediahuman.com/)
 - [ffmpeg-mp3-to-wav-converter](https://github.com/apostaat/ffmpeg-mp3-to-wav-converter) от [apostaat](https://t.me/apostaat) умеет конвертировать папками
