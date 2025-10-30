@@ -59,14 +59,14 @@
 - [Powerbank Xiaomi](https://market.yandex.ru/product--mi-power-bank-3-ultra-compact-pocket-edition-10000mah/788250264?sku=101139694228)
 - [Powerbank Commo](https://market.yandex.ru/card/portativnyy-vneshniy-akkumulyator-commo-aeon-30000-mach-pd-45-vt-sero-zelenyy/103566354868)
 
-### Провода
+## Провода
 
 - Аудио ввод и вывод
 - `USB`
 - `MIDI`, если надо, можно подключить через `TRS` или переходник
 - Переходник `Apple Camera Kit` (если хотим записывать видео со звуком `SP` в `iPhone`) ([обучающее видео](https://www.youtube.com/watch?v=sO1sCNlkDFI))
 
-#### Купить провода на маркетплейсах
+### Купить провода на маркетплейсах
 
 - [Mini-jack на 2 x jack 6.3](https://ozon.ru/t/gaQafSr) (забрать звук из телефона без USB)
 - [RCA на jack 6.3](https://www.ozon.ru/product/audio-kabel-akusticheskiy-1-5-metra-2h-jack-6-5-mm-2h-rca-1579932513) (подключиться к вертушке/пульту)
@@ -75,20 +75,20 @@
 - [MIDI Jack TRS — DIN5](https://mmag.ru/magazin/cablekitchen/procab-mid/518343-sale.html) (подключиться к синту, на котором нет `TRS`)
 - [MIDI USB HOST](https://www.ozon.ru/product/doremidi-vysokoskorostnoy-usb-midi-host-16-kanalov-1-vhod-1-vyhod-1618739418/) (подключение usb-устройств)
 
-### Стойки / подставки
+## Стойки / подставки
 
 Можно и без подставки, однако она добавляет удобства.
 
-#### Купить стойки / подставки на маркетплейсах
+### Купить стойки / подставки на маркетплейсах
 
 - [Подставка под ноутбук](https://www.ozon.ru/product/skladnaya-podstavka-pod-noutbuk-970266373)
 - [Стойка / пюпитр](https://ozon.ru/t/gaaBzZC)
 
-### Сумки / дэксейверы
+## Сумки / дэксейверы
 
 Оригинальную сумку не очень хвалят, цена не соответствует качеству, поэтому ссылки приведены на альтернативные варианты.
 
-#### Купить сумки / дэксейверы
+### Купить сумки / дэксейверы
 
 - [Сумка для инструментов](https://ozon.ru/t/Q1ZwIUF)
 - [Сумка для GoPro](https://ozon.ru/t/3lvOHAP)
@@ -96,7 +96,7 @@
 - [Дэксейверы прозрачные](https://t.me/Dacsavers)
 - [Дасткаверы/дексейвер от dbCustom](https://t.me/decibels_custom)
 
-### Скины / фейсплейты / нобы
+## Скины / фейсплейты / нобы
 
 - Фейсплейты из стали [@faceplate_4_sp404](https://t.me/faceplate_4_sp404) (RU)
 - Скины от dB Custom ([DJ Store](https://www.dj-store.ru/oborudovanie/didzhejev/aksessuary/nakladki/81952_db-custom-sp-404-mkii-shortcut-deep-night.html) , Telegram [@decibels_dB](https://t.me/decibels_dB)) (RU)
@@ -107,18 +107,18 @@
 - [Металлические фейсплейты с MPCStuff](https://www.mpcstuff.com/sp-404-mk2-top-plate-metal-casing-cover-chrome-light-silver-red-gold-bronze) (EN)
 - [Металлические фейсплейты с картинками](http://www.allenekeyparadise.com/) (EU)
 
-### Кнобы / поты / рукоятки крутилок
+## Кнобы / поты / рукоятки крутилок
 
 - Тип: `180` градусов `D-shape`
 - Внутренний диаметр полого вала: `6,2мм (0,24 дюйма)`.
 - Замена: тянуть строго вертикально вверх (можно поддеть ниткой или платком)
 
-#### Купить кнопбы
+### Купить кнопбы
 
 - [Низкие кнобы с Ali](https://sl.aliexpress.ru/p?key=O38X37y)
 - [ChromaCaps от DJTechTools](https://store.djtechtools.com/products/chroma-caps-knobs-and-faders)
 
-### Дополнительные устройства
+## Дополнительные устройства
 
 - [MIDI-педаль / переключатель Chocolate Plus](https://aliexpress.ru/item/1005007641919994.html)
 - [Степ-секвенсор Arturia BeatStep Pro](https://www.dj-store.ru/oborudovanie/klavishi/midi-kontrollery/15603_arturia-beatstep-pro.html)
